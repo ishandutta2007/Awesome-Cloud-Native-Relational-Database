@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Native-Relational-Database"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Native-Relational-Database?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Native-Relational-Database"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Native-Relational-Database?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Native-Relational-Database/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Native-Relational-Database?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Native-Relational-Database/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Native-Relational-Database?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -69,7 +69,7 @@ For a typical production workload (4 vCPUs, 16 GB RAM, 500 GB storage, Multi-AZ)
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[DuckDB](https://github.com/duckdb/duckdb)** [![Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) — **41,954 stars** 🦆  
   **In-process analytical SQL database engine**, MIT licensed. **The SQLite for Analytics** — zero external dependencies, embedded columnar execution, fast vector processing, and seamless querying over Parquet, CSV, and JSON files.
@@ -115,7 +115,7 @@ Contributions are welcome! Follow these steps to submit new cloud-native databas
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars Count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
